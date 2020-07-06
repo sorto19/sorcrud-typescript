@@ -1,2 +1,2 @@
-# sorcrud-react-php
-frotend in react js and backend in php
+# sorcrud-typescript
+practicando typescript
